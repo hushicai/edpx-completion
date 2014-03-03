@@ -1,6 +1,6 @@
 {
   "name": "edpx-completion",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "edp tab completion extension",
   "scripts": {
     "install": "edp extension add ./lib",
@@ -12,7 +12,7 @@
   },
   "author": "hushicai",
   "license": "BSD-2-Clause",
-  "devDependencies": {
+  "dependencies": {
     "tabtab": "0.0.2"
   }
 }
