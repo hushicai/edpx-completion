@@ -6,6 +6,10 @@
     "install": "edp extension add ./lib",
     "preinstall": "edp extension remove ./lib"
   },
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:hushicai/edpx-completion.git"
+  },
   "author": "hushicai",
   "license": "BSD-2-Clause",
   "devDependencies": {
