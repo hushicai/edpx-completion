@@ -1,10 +1,10 @@
 {
   "name": "edpx-completion",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "edp tab completion extension",
   "scripts": {
     "install": "edp extension add ./lib",
-    "preinstall": "edp extension remove ./lib"
+    "uninstall": "edp extension remove ./lib"
   },
   "repository": {
       "type": "git",
